@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white ;
+    padding: 5px 5px;
+    border-radius: 20px;
+
+}
+input {
+    padding:10px 10px;
+    margin-bottom: 5px;
+    border-radius: 30px;
+}
+buttom {
+    padding: 10px 10px;
+    margin-bottom: 5px;
+    border-radius: 30px;
+    background-color: pink;
+    color:purple;
+}
+.center {
+    text-align: center;
+}

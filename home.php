@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home — Student Enrollment System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>🏠 Baao Community College</h1>
+    <h2>Student Enrollment System</h2>
+
+    <div class="menu">
+        <a href="pakicheck.php" class="btn">📋 View Records</a>
+        <a href="logout.php" class="btn">🚪 Logout</a>
+    </div>
+
+    <p style="text-align:center; margin-top:30px; color:#888;">
+        BSIS-3A — 5 Tables: Student , Course, Section, Enrollment, Subject
+    </p>
+</div>
+
+</body>
+</html>
